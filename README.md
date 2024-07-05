@@ -26,5 +26,5 @@ This repository here is a place to voice your feedback and report any issues.
 I've been sitting on the v3 version for over a year, making small to no progress due to lack of motivation and / or time. Getting it out there and receiving feedback from actual users, having discussions over what to do and how and maybe even getting a hand to help out will hopefully push me enough to finish it.
 
 # Contact
-I'm reachable in [Stardew Valley discord #farm-designs @hpeinar](https://discord.gg/RRPKc4Z) feel free to ping me anytime.   
+I'm reachable in [Stardew Valley discord #farms-and-outfits @hpeinar](https://discord.gg/RRPKc4Z) feel free to ping me anytime.   
 Or via email: henrikpeinar@gmail.com
